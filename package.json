@@ -1,5 +1,5 @@
 {
-  "name": "aes-tool",
+  "name": "aes-cryptor",
   "version": "0.1.0",
   "private": true,
   "scripts": {
